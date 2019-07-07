@@ -3,9 +3,11 @@
 An application that uses REST services to enter and retrieve customer loan information.
 
 Technologies:
-- SpringBoot,
+- SpringBoot 2.0,
 - Spring DATA JPA,
-- Hibernate,
+- Apache Maven 3.6.0,
+- JAVA 8,
+- Hibernate.
 
 
 In application.properites you need to add your data:
